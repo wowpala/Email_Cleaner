@@ -1,5 +1,4 @@
-.gitignore
 .venv/
+*.code-workspace
 *.txt
 *.log
-*.code-workspace
