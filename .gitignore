@@ -1,0 +1,4 @@
+.venv/
+*.txt
+*.log
+*.code-workspace
